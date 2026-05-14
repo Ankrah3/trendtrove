@@ -1,6 +1,6 @@
-# Trendtrove - E-commerce Marketplace
+# Trendtrove - Aggregator E-commerce Marketplace
 
-Trendtrove is a modern e-commerce platform that connects merchants with global consumers. Browse trending products, hot deals, and shop securely across multiple categories.
+Trendtrove is a modern aggregator e-commerce platform that connects merchants with global consumers. Browse trending products, hot deals, and shop securely across multiple categories.
 
 ## Features
 
