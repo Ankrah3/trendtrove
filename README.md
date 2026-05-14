@@ -41,3 +41,6 @@ Trendtrove is a modern aggregator e-commerce platform that connects merchants wi
 ```bash
 git clone https://github.com/ankrah3/trendtrove.git
 ```
+## Live Demo
+
+🔗 https://ankrah3.github.io/trendtrove/
